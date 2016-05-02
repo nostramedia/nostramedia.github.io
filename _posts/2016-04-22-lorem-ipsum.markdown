@@ -2,6 +2,7 @@
 layout: post
 title:  "Lorem Ipsum"
 date:   2016-04-22 14:54:03 -0700
+author: Reinhardt Brenner
 categories: jekyll update
 ---
 
