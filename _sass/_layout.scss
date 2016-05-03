@@ -6,6 +6,24 @@
   text-transform: uppercase;
 }
 
+footer nav a {
+    color: $text-color;
+    font-size: $small-font-size;
+    margin-right: $small-font-size;
+
+    &:visited {
+        color: $text-color;
+    }
+
+    &:hover {
+        color: darken($brand-color, 15%);
+    }
+}
+
+nav {
+  margin-bottom: $spacing-unit / 2;
+}
+
 /**
  * Site header
  */
